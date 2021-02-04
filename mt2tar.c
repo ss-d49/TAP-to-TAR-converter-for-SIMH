@@ -1,3 +1,6 @@
+/* Inpsired by the utility 'tar2mt' which is copyrighted (c) 2015, Mark Pizzolato.
+This program is by S. DAY.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>
